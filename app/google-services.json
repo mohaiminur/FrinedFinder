@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88171023075",
+    "firebase_url": "https://frined-finder.firebaseio.com",
+    "project_id": "frined-finder",
+    "storage_bucket": "frined-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88171023075:android:904e5b3acff38b2d2f93d6",
+        "android_client_info": {
+          "package_name": "com.mohaiminur.frinedfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88171023075-rn5frm3kftqd7ammtvco18qni41k2q79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohaiminur.frinedfinder",
+            "certificate_hash": "4a163ee9d867b792daf78f635dfb3623c2015d65"
+          }
+        },
+        {
+          "client_id": "88171023075-qie2qdr60ne824ondgc3il7o13psq8ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcf6bkJWaM-NLEeQ2c7VTw1bz-fvA79Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88171023075-qie2qdr60ne824ondgc3il7o13psq8ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
