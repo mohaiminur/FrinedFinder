@@ -20,7 +20,7 @@
 
 * With this application we can find location of a phone number that we have in our phone contact list. 
 * we can find stolen phone with this application
-* we can truck anyone with this application
+* we can track anyone with this application
 
 ---
 
