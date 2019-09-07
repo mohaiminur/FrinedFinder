@@ -10,10 +10,7 @@
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=OUUH6-csZik
 ---
-```
-  We need to register with phone number
- 
- ```
+  ###### Note: We need to register with phone number
 ---
 
 ## Features
